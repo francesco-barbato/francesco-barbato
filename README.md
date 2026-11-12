@@ -6,8 +6,8 @@ Benvenuto nel mio profilo! Unisco i principi dell'ingegneria aerospaziale alla p
 
 ### 📊 Le mie Statistiche GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francesco-barbato&show_icons=true&theme=transparent&hide_border=true&title_color=1f8feb&icon_color=1f8feb" height="150" alt="Statistiche GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-barbato&layout=compact&theme=transparent&hide_border=true&title_color=1f8feb" height="150" alt="Linguaggi più usati" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=francesco-barbato&show_icons=true&theme=transparent&hide_border=true&title_color=1f8feb&icon_color=1f8feb" height="150" alt="Statistiche GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=francesco-barbato&layout=compact&theme=transparent&hide_border=true&title_color=1f8feb" height="150" alt="Linguaggi più usati" />
 </div>
 
 ---
@@ -24,6 +24,14 @@ Benvenuto nel mio profilo! Unisco i principi dell'ingegneria aerospaziale alla p
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-e16723?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Librerie & Framework Python**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **CFD, CAD & Strumenti**  
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1d1d1b?style=for-the-badge)
